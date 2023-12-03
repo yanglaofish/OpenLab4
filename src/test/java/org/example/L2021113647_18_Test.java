@@ -1,5 +1,6 @@
-import org.junit.Assert;
-import org.junit.Test;
+package org.example;
+
+import org.junit.*;
 
 
 
