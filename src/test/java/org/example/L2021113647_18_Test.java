@@ -55,7 +55,7 @@ public class L2021113647_18_Test {
 
     //0，正数，负数
     @Test
-    public void test6(){
+    public void test77(){
         int[] input={1,-1,0,3,-3};
         int[] output;
         Solution solu =new Solution();
